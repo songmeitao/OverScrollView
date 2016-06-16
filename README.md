@@ -12,7 +12,7 @@ If you find a mistake, please contact me, thank you very much.    Email：song_m
 如果你发现一个错误，请联系我，非常感谢你。                      邮箱：song_meitao@163.com  
 
 ##Effect display：
-<img src="https://github.com/songmeitao/MyData/blob/master/data/OverScrollView/OverScrollView01.png" width = "200" height = "600" alt="图片名称" align=center />
+<img src="https://github.com/songmeitao/MyData/blob/master/data/OverScrollView/OverScrollView01.png" width = "400" height = "600" alt="图片名称" align=center />
 ![](https://github.com/songmeitao/MyData/blob/master/data/OverScrollView/OverScrollView01.png)
 ![](https://github.com/songmeitao/MyData/blob/master/data/OverScrollView/OverScrollView02.png)
 ![](https://github.com/songmeitao/MyData/blob/master/data/OverScrollView/OverScrollView03.png)
