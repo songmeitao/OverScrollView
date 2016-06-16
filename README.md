@@ -5,7 +5,6 @@ this is a OverScrollView
 
 
 It has a very good sliding effect.  
-
 它具有很好的滑动效果
 
 
