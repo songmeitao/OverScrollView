@@ -13,7 +13,7 @@ If you find a mistake, please contact me, thank you very much.    Email：song_m
 
 ##Effect display：
 
-![](https://github.com/songmeitao/MyData/blob/master/data/OverScrollView/OverScrollView01.png =100x20 =100)
+![](https://github.com/songmeitao/MyData/blob/master/data/OverScrollView/OverScrollView01.png)
 ![](https://github.com/songmeitao/MyData/blob/master/data/OverScrollView/OverScrollView02.png)
 ![](https://github.com/songmeitao/MyData/blob/master/data/OverScrollView/OverScrollView03.png)
 ![](https://github.com/songmeitao/MyData/blob/master/data/OverScrollView/OverScrollView04.png)  
