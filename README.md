@@ -16,10 +16,7 @@ If you find a mistake, please contact me, thank you very much.    Email：song_m
 You can go to Mydata to see its demo video, but you need to download  
 你可以去Mydata 看它的演示视频 ，但你需要下载 （https://github.com/songmeitao/MyData/blob/master/OverScrollView.mp4）
 
-<img src="https://github.com/songmeitao/MyData/blob/master/data/OverScrollView/OverScrollView01.png" width = "400" height = "600" alt="图片名称" align=center />
-<img src="https://github.com/songmeitao/MyData/blob/master/data/OverScrollView/OverScrollView02.png" width = "400" height = "600" alt="图片名称" align=center />
-<img src="https://github.com/songmeitao/MyData/blob/master/data/OverScrollView/OverScrollView03.png" width = "400" height = "600" alt="图片名称" align=center />
-<img src="https://github.com/songmeitao/MyData/blob/master/data/OverScrollView/OverScrollView04.png" width = "400" height = "600" alt="图片名称" align=center />
+![效果](https://github.com/songmeitao/OverScrollView/blob/master/OverScrollView.gif)
 
 
 
